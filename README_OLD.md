@@ -1,4 +1,6 @@
 # WebTPApi
-> 网站上的第三方 API。
+网站上的第三方 API。
 
-**说明文档等待编写。**
+[api.lcwebsite.cn](https://api.lcwebsite.cn/ "LC的API站")
+
+~~说明文档等待编写。~~
